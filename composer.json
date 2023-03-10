@@ -1,5 +1,5 @@
 {
-    "name": "hashcode7/laravel-amplitude-analytics",
+    "name": "Organized-Authors/laravel-amplitude-analytics",
     "description": "A Laravel package to work with Amplitude.",
     "keywords": [
         "laravel",
@@ -7,16 +7,10 @@
         "package",
         "php"
     ],
-    "homepage": "https://github.com/hashcode7/laravel-amplitude-analytics",
+    "homepage": "https://github.com/Organized-Authors/laravel-amplitude-analytics",
     "license": "MIT",
     "type": "library",
-    "authors": [
-        {
-            "name": "Nanda Yemparala",
-            "email": "nanda.yemparala@gmail.com",
-            "role": "Developer"
-        }
-    ],
+    "authors": [],
     "require": {
         "php": "^8.1",
         "illuminate/support": "^9.0|^10.0",
