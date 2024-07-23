@@ -1,5 +1,5 @@
 {
-    "name": "organized-authors/laravel-amplitude-analytics",
+    "name": "hamedmax73/laravel-amplitude-analytics",
     "description": "A Laravel package to work with Amplitude.",
     "keywords": [
         "laravel",
@@ -7,7 +7,7 @@
         "package",
         "php"
     ],
-    "homepage": "https://github.com/organized-authors/laravel-amplitude-analytics",
+    "homepage": "https://github.com/hamedmax73/laravel-amplitude-analytics",
     "license": "MIT",
     "type": "library",
     "authors": [],
